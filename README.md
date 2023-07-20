@@ -1,14 +1,13 @@
 <div align="center"> 
 
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ApostleB&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :bookmark: Skill Set
   
  <br/>
   
@@ -31,9 +30,9 @@
  
 #### :pencil2: Study log
  
-  <!-- <br/>
+   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div> -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ApostleB&color=dark)](https://velog.io/@somm)
+</div> 

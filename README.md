@@ -1,6 +1,6 @@
 
 <div align="center"> 
-####  :wave: Welcome my github profile !
+####  👋 Welcome my github profile !
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ApostleB&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
@@ -8,7 +8,7 @@
  <br/>
  <br/>
   
-####  :bookmark: Skill Set
+####  🔖 Skill Set
   
  <br/>
   
@@ -34,11 +34,11 @@
    <br/>
    <br/>
  
-#### :pencil2: Portfolio
+#### ✏️ Portfolio
  
    <br/>
   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Verser&color=dark)](https://velog.io/@verser)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ApostleB)](https://velog.io/@verser)
 </div> 

@@ -11,7 +11,7 @@
 ####  🔖 Skill Set
   
  <br/>
-  
+<img src="https://img.shields.io/badge/java-spring?style=for-the-badge&logo=Supabase&logoColor=white">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Express-007396?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=white">
@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-blue?style=for-the-badge&logo=Supabase&logoColor=white">
+
+
 <br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">

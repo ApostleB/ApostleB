@@ -19,9 +19,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-blue?style=for-the-badge&logo=Supabase&logoColor=white">
 
 <br/>

@@ -12,7 +12,7 @@
   
 <br/>
 
-<img src="https://img.shields.io/badge/Spring?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-Boot?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Express-007396?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">

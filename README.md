@@ -7,7 +7,8 @@
 ### 🚀 About Me
 Passionate full-stack developer with expertise in backend and cloud infrastructure. Dedicated to building scalable and efficient solutions.
 
----
+## 📊 GitHub Statistics
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApostleB&theme=dark)
 
 ## 🛠️ Tech Stack
 ### Backend
@@ -28,12 +29,6 @@ Passionate full-stack developer with expertise in backend and cloud infrastructu
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
----
-
-## 📊 GitHub Statistics
-
-[![ApostleB's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApostleB)](https://github.com/ApostleB/github-readme-stats)
----
 
 ## ✏️ Blog & Resources
 
@@ -41,7 +36,6 @@ Passionate full-stack developer with expertise in backend and cloud infrastructu
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&reversal=true" />
 

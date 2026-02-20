@@ -5,7 +5,7 @@
 ## 👋 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
-Passionate full-stack developer with expertise in backend and cloud infrastructure. Dedicated to building scalable and efficient solutions.
+Full-stack developer building scalable applications with a focus on backend & cloud
 
 ## 📊 GitHub Statistics
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApostleB&theme=dark)

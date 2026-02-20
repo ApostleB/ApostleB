@@ -27,13 +27,12 @@ Full-stack developer building scalable applications with a focus on backend & cl
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### DevOps & Cloud
-<img src="https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora">
+<img src="https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=rocky-linux&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 
 [//]: # (<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">)
 [//]: # (<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">)
-
 
 ## ✏️ Blog & Resources
 
@@ -41,11 +40,9 @@ Full-stack developer building scalable applications with a focus on backend & cl
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&reversal=true" />
 
 </div> 
-
 
 <style>
 img {

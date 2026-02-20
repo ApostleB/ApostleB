@@ -18,16 +18,21 @@ Full-stack developer building scalable applications with a focus on backend & cl
 
 ### Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-svelte-gray?style=for-the-badge&logo=svelte&logoColor=orange">
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### DevOps & Cloud
+<img src="https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+
+[//]: # (<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">)
+[//]: # (<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">)
 
 
 ## ✏️ Blog & Resources
